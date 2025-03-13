@@ -1,0 +1,6 @@
+@GuideGoAPI_HostAddress = http://localhost:5199
+
+GET {{GuideGoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

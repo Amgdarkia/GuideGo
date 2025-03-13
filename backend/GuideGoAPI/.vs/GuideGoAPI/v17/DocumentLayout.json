@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\dtos\\reviewdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:dtos\\reviewdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|c:\\users\\amgd\\documents\\csharp\\guidegoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9818EDC-AF22-4D93-88EB-9A404EB1AC0C}|GuideGoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "DTOs\\BookingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:38:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Entities\\Booking.cs",
+              "RelativeToolTip": "Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:37:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewDTOResponse.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\ReviewDTOResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReviewDTOResponse.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\ReviewDTOResponse.cs",
+              "RelativeToolTip": "DTOs\\ReviewDTOResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:01:10.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ReviewDTO.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "DTOs\\ReviewDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:00:01.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:59:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Entities\\Review.cs",
+              "RelativeToolTip": "Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:58:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amgd\\Documents\\Csharp\\GuideGoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:20:48.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
